@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\bin\Debug\net6.0\tasks15_multiple_of_7_and_23.exe
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\bin\Debug\net6.0\tasks15_multiple_of_7_and_23.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\bin\Debug\net6.0\tasks15_multiple_of_7_and_23.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\bin\Debug\net6.0\tasks15_multiple_of_7_and_23.dll
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\bin\Debug\net6.0\tasks15_multiple_of_7_and_23.pdb
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\obj\Debug\net6.0\tasks15_multiple_of_7_and_23.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\obj\Debug\net6.0\tasks15_multiple_of_7_and_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\obj\Debug\net6.0\tasks15_multiple_of_7_and_23.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\obj\Debug\net6.0\tasks15_multiple_of_7_and_23.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\obj\Debug\net6.0\tasks15_multiple_of_7_and_23.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\obj\Debug\net6.0\tasks15_multiple_of_7_and_23.dll
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\obj\Debug\net6.0\refint\tasks15_multiple_of_7_and_23.dll
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\obj\Debug\net6.0\tasks15_multiple_of_7_and_23.pdb
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\obj\Debug\net6.0\tasks15_multiple_of_7_and_23.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks15_multiple_of_7_and_23\obj\Debug\net6.0\ref\tasks15_multiple_of_7_and_23.dll
