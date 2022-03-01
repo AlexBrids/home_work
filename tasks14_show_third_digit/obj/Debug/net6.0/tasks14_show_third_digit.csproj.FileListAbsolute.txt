@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\bin\Debug\net6.0\tasks14_show_third_digit.exe
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\bin\Debug\net6.0\tasks14_show_third_digit.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\bin\Debug\net6.0\tasks14_show_third_digit.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\bin\Debug\net6.0\tasks14_show_third_digit.dll
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\bin\Debug\net6.0\tasks14_show_third_digit.pdb
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\obj\Debug\net6.0\tasks14_show_third_digit.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\obj\Debug\net6.0\tasks14_show_third_digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\obj\Debug\net6.0\tasks14_show_third_digit.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\obj\Debug\net6.0\tasks14_show_third_digit.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\obj\Debug\net6.0\tasks14_show_third_digit.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\obj\Debug\net6.0\tasks14_show_third_digit.dll
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\obj\Debug\net6.0\refint\tasks14_show_third_digit.dll
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\obj\Debug\net6.0\tasks14_show_third_digit.pdb
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\obj\Debug\net6.0\tasks14_show_third_digit.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks14_show_third_digit\obj\Debug\net6.0\ref\tasks14_show_third_digit.dll
