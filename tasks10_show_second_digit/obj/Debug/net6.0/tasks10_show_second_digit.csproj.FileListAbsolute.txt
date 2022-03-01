@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\bin\Debug\net6.0\tasks10_show_second_digit.exe
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\bin\Debug\net6.0\tasks10_show_second_digit.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\bin\Debug\net6.0\tasks10_show_second_digit.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\bin\Debug\net6.0\tasks10_show_second_digit.dll
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\bin\Debug\net6.0\tasks10_show_second_digit.pdb
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.dll
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\obj\Debug\net6.0\refint\tasks10_show_second_digit.dll
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.pdb
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks10_show_second_digit\obj\Debug\net6.0\ref\tasks10_show_second_digit.dll
