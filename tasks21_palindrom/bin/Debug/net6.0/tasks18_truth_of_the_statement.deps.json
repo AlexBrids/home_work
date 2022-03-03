@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tasks18_truth_of_the_statement/1.0.0": {
+        "runtime": {
+          "tasks18_truth_of_the_statement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tasks18_truth_of_the_statement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
