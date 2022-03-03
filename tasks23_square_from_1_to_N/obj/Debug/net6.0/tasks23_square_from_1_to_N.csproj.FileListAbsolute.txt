@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\bin\Debug\net6.0\tasks23_square_from_1_to_N.exe
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\bin\Debug\net6.0\tasks23_square_from_1_to_N.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\bin\Debug\net6.0\tasks23_square_from_1_to_N.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\bin\Debug\net6.0\tasks23_square_from_1_to_N.dll
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\bin\Debug\net6.0\tasks23_square_from_1_to_N.pdb
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\obj\Debug\net6.0\tasks23_square_from_1_to_N.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\obj\Debug\net6.0\tasks23_square_from_1_to_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\obj\Debug\net6.0\tasks23_square_from_1_to_N.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\obj\Debug\net6.0\tasks23_square_from_1_to_N.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\obj\Debug\net6.0\tasks23_square_from_1_to_N.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\obj\Debug\net6.0\tasks23_square_from_1_to_N.dll
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\obj\Debug\net6.0\refint\tasks23_square_from_1_to_N.dll
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\obj\Debug\net6.0\tasks23_square_from_1_to_N.pdb
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\obj\Debug\net6.0\tasks23_square_from_1_to_N.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks23_square_from_1_to_N\obj\Debug\net6.0\ref\tasks23_square_from_1_to_N.dll
