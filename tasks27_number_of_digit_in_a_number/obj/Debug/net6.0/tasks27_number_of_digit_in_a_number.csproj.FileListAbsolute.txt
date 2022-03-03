@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\bin\Debug\net6.0\tasks27_number_of_digit_in_a_number.exe
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\bin\Debug\net6.0\tasks27_number_of_digit_in_a_number.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\bin\Debug\net6.0\tasks27_number_of_digit_in_a_number.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\bin\Debug\net6.0\tasks27_number_of_digit_in_a_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\bin\Debug\net6.0\tasks27_number_of_digit_in_a_number.pdb
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\obj\Debug\net6.0\tasks27_number_of_digit_in_a_number.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\obj\Debug\net6.0\tasks27_number_of_digit_in_a_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\obj\Debug\net6.0\tasks27_number_of_digit_in_a_number.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\obj\Debug\net6.0\tasks27_number_of_digit_in_a_number.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\obj\Debug\net6.0\tasks27_number_of_digit_in_a_number.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\obj\Debug\net6.0\tasks27_number_of_digit_in_a_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\obj\Debug\net6.0\refint\tasks27_number_of_digit_in_a_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\obj\Debug\net6.0\tasks27_number_of_digit_in_a_number.pdb
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\obj\Debug\net6.0\tasks27_number_of_digit_in_a_number.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks27_number_of_digit_in_a_number\obj\Debug\net6.0\ref\tasks27_number_of_digit_in_a_number.dll

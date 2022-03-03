@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tasks27_number_of_digit_in_a_number/1.0.0": {
+        "runtime": {
+          "tasks27_number_of_digit_in_a_number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tasks27_number_of_digit_in_a_number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
