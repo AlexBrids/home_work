@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\bin\Debug\net6.0\tasks7_ot_1_do_N.exe
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\bin\Debug\net6.0\tasks7_ot_1_do_N.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\bin\Debug\net6.0\tasks7_ot_1_do_N.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\bin\Debug\net6.0\tasks7_ot_1_do_N.dll
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\bin\Debug\net6.0\tasks7_ot_1_do_N.pdb
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\obj\Debug\net6.0\tasks7_ot_1_do_N.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\obj\Debug\net6.0\tasks7_ot_1_do_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\obj\Debug\net6.0\tasks7_ot_1_do_N.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\obj\Debug\net6.0\tasks7_ot_1_do_N.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\obj\Debug\net6.0\tasks7_ot_1_do_N.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\obj\Debug\net6.0\tasks7_ot_1_do_N.dll
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\obj\Debug\net6.0\refint\tasks7_ot_1_do_N.dll
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\obj\Debug\net6.0\tasks7_ot_1_do_N.pdb
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\obj\Debug\net6.0\tasks7_ot_1_do_N.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks7_ot_1_do_N\obj\Debug\net6.0\ref\tasks7_ot_1_do_N.dll
