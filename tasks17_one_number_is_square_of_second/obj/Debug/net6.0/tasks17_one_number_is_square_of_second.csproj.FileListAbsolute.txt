@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\bin\Debug\net6.0\tasks17_one_number_is_square_of_second.exe
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\bin\Debug\net6.0\tasks17_one_number_is_square_of_second.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\bin\Debug\net6.0\tasks17_one_number_is_square_of_second.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\bin\Debug\net6.0\tasks17_one_number_is_square_of_second.dll
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\bin\Debug\net6.0\tasks17_one_number_is_square_of_second.pdb
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\obj\Debug\net6.0\tasks17_one_number_is_square_of_second.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\obj\Debug\net6.0\tasks17_one_number_is_square_of_second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\obj\Debug\net6.0\tasks17_one_number_is_square_of_second.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\obj\Debug\net6.0\tasks17_one_number_is_square_of_second.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\obj\Debug\net6.0\tasks17_one_number_is_square_of_second.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\obj\Debug\net6.0\tasks17_one_number_is_square_of_second.dll
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\obj\Debug\net6.0\refint\tasks17_one_number_is_square_of_second.dll
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\obj\Debug\net6.0\tasks17_one_number_is_square_of_second.pdb
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\obj\Debug\net6.0\tasks17_one_number_is_square_of_second.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks17_one_number_is_square_of_second\obj\Debug\net6.0\ref\tasks17_one_number_is_square_of_second.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tasks17_one_number_is_square_of_second/1.0.0": {
+        "runtime": {
+          "tasks17_one_number_is_square_of_second.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tasks17_one_number_is_square_of_second/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
