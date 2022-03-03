@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\obj\Debug\net6.0\tasks16_weekend_day.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\obj\Debug\net6.0\tasks16_weekend_day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\obj\Debug\net6.0\tasks16_weekend_day.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\obj\Debug\net6.0\tasks16_weekend_day.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\obj\Debug\net6.0\tasks16_weekend_day.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\bin\Debug\net6.0\tasks16_weekend_day.exe
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\bin\Debug\net6.0\tasks16_weekend_day.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\bin\Debug\net6.0\tasks16_weekend_day.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\bin\Debug\net6.0\tasks16_weekend_day.dll
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\bin\Debug\net6.0\tasks16_weekend_day.pdb
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\obj\Debug\net6.0\tasks16_weekend_day.dll
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\obj\Debug\net6.0\refint\tasks16_weekend_day.dll
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\obj\Debug\net6.0\tasks16_weekend_day.pdb
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\obj\Debug\net6.0\tasks16_weekend_day.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks16_weekend_day\obj\Debug\net6.0\ref\tasks16_weekend_day.dll
