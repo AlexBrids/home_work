@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\bin\Debug\net6.0\tasks22_distance_a_to_b.exe
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\bin\Debug\net6.0\tasks22_distance_a_to_b.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\bin\Debug\net6.0\tasks22_distance_a_to_b.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\bin\Debug\net6.0\tasks22_distance_a_to_b.dll
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\bin\Debug\net6.0\tasks22_distance_a_to_b.pdb
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\obj\Debug\net6.0\tasks22_distance_a_to_b.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\obj\Debug\net6.0\tasks22_distance_a_to_b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\obj\Debug\net6.0\tasks22_distance_a_to_b.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\obj\Debug\net6.0\tasks22_distance_a_to_b.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\obj\Debug\net6.0\tasks22_distance_a_to_b.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\obj\Debug\net6.0\tasks22_distance_a_to_b.dll
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\obj\Debug\net6.0\refint\tasks22_distance_a_to_b.dll
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\obj\Debug\net6.0\tasks22_distance_a_to_b.pdb
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\obj\Debug\net6.0\tasks22_distance_a_to_b.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks22_distance_a_to_b\obj\Debug\net6.0\ref\tasks22_distance_a_to_b.dll

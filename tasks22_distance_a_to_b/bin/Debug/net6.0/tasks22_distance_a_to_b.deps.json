@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tasks22_distance_a_to_b/1.0.0": {
+        "runtime": {
+          "tasks22_distance_a_to_b.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tasks22_distance_a_to_b/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
