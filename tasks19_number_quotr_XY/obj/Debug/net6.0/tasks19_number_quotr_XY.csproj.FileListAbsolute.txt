@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\bin\Debug\net6.0\tasks19_number_quotr_XY.exe
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\bin\Debug\net6.0\tasks19_number_quotr_XY.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\bin\Debug\net6.0\tasks19_number_quotr_XY.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\bin\Debug\net6.0\tasks19_number_quotr_XY.dll
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\bin\Debug\net6.0\tasks19_number_quotr_XY.pdb
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\obj\Debug\net6.0\tasks19_number_quotr_XY.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\obj\Debug\net6.0\tasks19_number_quotr_XY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\obj\Debug\net6.0\tasks19_number_quotr_XY.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\obj\Debug\net6.0\tasks19_number_quotr_XY.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\obj\Debug\net6.0\tasks19_number_quotr_XY.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\obj\Debug\net6.0\tasks19_number_quotr_XY.dll
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\obj\Debug\net6.0\refint\tasks19_number_quotr_XY.dll
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\obj\Debug\net6.0\tasks19_number_quotr_XY.pdb
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\obj\Debug\net6.0\tasks19_number_quotr_XY.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks19_number_quotr_XY\obj\Debug\net6.0\ref\tasks19_number_quotr_XY.dll
