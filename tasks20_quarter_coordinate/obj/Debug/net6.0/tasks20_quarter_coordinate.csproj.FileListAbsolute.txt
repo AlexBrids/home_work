@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\bin\Debug\net6.0\tasks20_quarter_coordinate.exe
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\bin\Debug\net6.0\tasks20_quarter_coordinate.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\bin\Debug\net6.0\tasks20_quarter_coordinate.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\bin\Debug\net6.0\tasks20_quarter_coordinate.dll
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\bin\Debug\net6.0\tasks20_quarter_coordinate.pdb
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\obj\Debug\net6.0\tasks20_quarter_coordinate.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\obj\Debug\net6.0\tasks20_quarter_coordinate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\obj\Debug\net6.0\tasks20_quarter_coordinate.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\obj\Debug\net6.0\tasks20_quarter_coordinate.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\obj\Debug\net6.0\tasks20_quarter_coordinate.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\obj\Debug\net6.0\tasks20_quarter_coordinate.dll
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\obj\Debug\net6.0\refint\tasks20_quarter_coordinate.dll
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\obj\Debug\net6.0\tasks20_quarter_coordinate.pdb
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\obj\Debug\net6.0\tasks20_quarter_coordinate.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks20_quarter_coordinate\obj\Debug\net6.0\ref\tasks20_quarter_coordinate.dll
