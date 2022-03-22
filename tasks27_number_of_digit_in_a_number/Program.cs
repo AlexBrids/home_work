@@ -21,7 +21,7 @@ WriteLine($"Количество цифр в числе равно: {number_of_d
 // Вариант 2 Количество цифр в строке
 
 
-string text = "kjlkj5";
+string text = "kjl56kj5";
 
 
 async void NumberOfDigitInWord(string str)

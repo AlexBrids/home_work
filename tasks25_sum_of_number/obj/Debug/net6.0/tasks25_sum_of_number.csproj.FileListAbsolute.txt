@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\bin\Debug\net6.0\tasks25_sum_of_number.exe
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\bin\Debug\net6.0\tasks25_sum_of_number.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\bin\Debug\net6.0\tasks25_sum_of_number.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\bin\Debug\net6.0\tasks25_sum_of_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\bin\Debug\net6.0\tasks25_sum_of_number.pdb
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\obj\Debug\net6.0\tasks25_sum_of_number.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\obj\Debug\net6.0\tasks25_sum_of_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\obj\Debug\net6.0\tasks25_sum_of_number.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\obj\Debug\net6.0\tasks25_sum_of_number.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\obj\Debug\net6.0\tasks25_sum_of_number.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\obj\Debug\net6.0\tasks25_sum_of_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\obj\Debug\net6.0\refint\tasks25_sum_of_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\obj\Debug\net6.0\tasks25_sum_of_number.pdb
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\obj\Debug\net6.0\tasks25_sum_of_number.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks25_sum_of_number\obj\Debug\net6.0\ref\tasks25_sum_of_number.dll
