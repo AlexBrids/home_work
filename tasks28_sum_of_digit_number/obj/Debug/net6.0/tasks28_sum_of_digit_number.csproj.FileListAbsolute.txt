@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\bin\Debug\net6.0\tasks28_sum_of_digit_number.exe
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\bin\Debug\net6.0\tasks28_sum_of_digit_number.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\bin\Debug\net6.0\tasks28_sum_of_digit_number.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\bin\Debug\net6.0\tasks28_sum_of_digit_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\bin\Debug\net6.0\tasks28_sum_of_digit_number.pdb
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\obj\Debug\net6.0\tasks28_sum_of_digit_number.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\obj\Debug\net6.0\tasks28_sum_of_digit_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\obj\Debug\net6.0\tasks28_sum_of_digit_number.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\obj\Debug\net6.0\tasks28_sum_of_digit_number.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\obj\Debug\net6.0\tasks28_sum_of_digit_number.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\obj\Debug\net6.0\tasks28_sum_of_digit_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\obj\Debug\net6.0\refint\tasks28_sum_of_digit_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\obj\Debug\net6.0\tasks28_sum_of_digit_number.pdb
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\obj\Debug\net6.0\tasks28_sum_of_digit_number.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks28_sum_of_digit_number\obj\Debug\net6.0\ref\tasks28_sum_of_digit_number.dll
