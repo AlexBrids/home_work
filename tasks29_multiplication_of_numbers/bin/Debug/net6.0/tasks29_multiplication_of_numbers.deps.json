@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tasks29_multiplication_of_numbers/1.0.0": {
+        "runtime": {
+          "tasks29_multiplication_of_numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tasks29_multiplication_of_numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

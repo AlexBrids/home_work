@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\bin\Debug\net6.0\tasks29_multiplication_of_numbers.exe
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\bin\Debug\net6.0\tasks29_multiplication_of_numbers.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\bin\Debug\net6.0\tasks29_multiplication_of_numbers.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\bin\Debug\net6.0\tasks29_multiplication_of_numbers.dll
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\bin\Debug\net6.0\tasks29_multiplication_of_numbers.pdb
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\obj\Debug\net6.0\tasks29_multiplication_of_numbers.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\obj\Debug\net6.0\tasks29_multiplication_of_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\obj\Debug\net6.0\tasks29_multiplication_of_numbers.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\obj\Debug\net6.0\tasks29_multiplication_of_numbers.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\obj\Debug\net6.0\tasks29_multiplication_of_numbers.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\obj\Debug\net6.0\tasks29_multiplication_of_numbers.dll
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\obj\Debug\net6.0\refint\tasks29_multiplication_of_numbers.dll
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\obj\Debug\net6.0\tasks29_multiplication_of_numbers.pdb
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\obj\Debug\net6.0\tasks29_multiplication_of_numbers.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks29_multiplication_of_numbers\obj\Debug\net6.0\ref\tasks29_multiplication_of_numbers.dll
