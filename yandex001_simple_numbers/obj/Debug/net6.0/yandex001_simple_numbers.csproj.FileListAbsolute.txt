@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\obj\Debug\net6.0\yandex001_simple_numbers.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\obj\Debug\net6.0\yandex001_simple_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\obj\Debug\net6.0\yandex001_simple_numbers.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\obj\Debug\net6.0\yandex001_simple_numbers.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\obj\Debug\net6.0\yandex001_simple_numbers.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\bin\Debug\net6.0\yandex001_simple_numbers.exe
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\bin\Debug\net6.0\yandex001_simple_numbers.deps.json
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\bin\Debug\net6.0\yandex001_simple_numbers.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\bin\Debug\net6.0\yandex001_simple_numbers.dll
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\bin\Debug\net6.0\yandex001_simple_numbers.pdb
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\obj\Debug\net6.0\yandex001_simple_numbers.dll
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\obj\Debug\net6.0\refint\yandex001_simple_numbers.dll
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\obj\Debug\net6.0\yandex001_simple_numbers.pdb
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\obj\Debug\net6.0\yandex001_simple_numbers.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\yandex001_simple_numbers\obj\Debug\net6.0\ref\yandex001_simple_numbers.dll
