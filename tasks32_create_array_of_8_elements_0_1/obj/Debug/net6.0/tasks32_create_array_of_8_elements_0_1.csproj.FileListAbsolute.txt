@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\bin\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.exe
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\bin\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\bin\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\bin\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.dll
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\bin\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.pdb
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\obj\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\obj\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\obj\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\obj\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\obj\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\obj\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.dll
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\obj\Debug\net6.0\refint\tasks32_create_array_of_8_elements_0_1.dll
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\obj\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.pdb
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\obj\Debug\net6.0\tasks32_create_array_of_8_elements_0_1.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks32_create_array_of_8_elements_0_1\obj\Debug\net6.0\ref\tasks32_create_array_of_8_elements_0_1.dll

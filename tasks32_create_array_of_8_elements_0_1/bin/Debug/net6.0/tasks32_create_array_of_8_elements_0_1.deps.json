@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tasks32_create_array_of_8_elements_0_1/1.0.0": {
+        "runtime": {
+          "tasks32_create_array_of_8_elements_0_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tasks32_create_array_of_8_elements_0_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
