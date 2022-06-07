@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\bin\Debug\net6.0\tasks31_create_aray_of_8_elements.exe
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\bin\Debug\net6.0\tasks31_create_aray_of_8_elements.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\bin\Debug\net6.0\tasks31_create_aray_of_8_elements.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\bin\Debug\net6.0\tasks31_create_aray_of_8_elements.dll
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\bin\Debug\net6.0\tasks31_create_aray_of_8_elements.pdb
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\obj\Debug\net6.0\tasks31_create_aray_of_8_elements.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\obj\Debug\net6.0\tasks31_create_aray_of_8_elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\obj\Debug\net6.0\tasks31_create_aray_of_8_elements.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\obj\Debug\net6.0\tasks31_create_aray_of_8_elements.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\obj\Debug\net6.0\tasks31_create_aray_of_8_elements.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\obj\Debug\net6.0\tasks31_create_aray_of_8_elements.dll
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\obj\Debug\net6.0\refint\tasks31_create_aray_of_8_elements.dll
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\obj\Debug\net6.0\tasks31_create_aray_of_8_elements.pdb
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\obj\Debug\net6.0\tasks31_create_aray_of_8_elements.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks31_create_aray_of_8_elements\obj\Debug\net6.0\ref\tasks31_create_aray_of_8_elements.dll
