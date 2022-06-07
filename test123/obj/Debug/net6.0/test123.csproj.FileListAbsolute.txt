@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\test123\bin\Debug\net6.0\test123.exe
+C:\Users\bridskiy\Desktop\homework\test123\bin\Debug\net6.0\test123.deps.json
+C:\Users\bridskiy\Desktop\homework\test123\bin\Debug\net6.0\test123.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\test123\bin\Debug\net6.0\test123.dll
+C:\Users\bridskiy\Desktop\homework\test123\bin\Debug\net6.0\test123.pdb
+C:\Users\bridskiy\Desktop\homework\test123\obj\Debug\net6.0\test123.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\test123\obj\Debug\net6.0\test123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\test123\obj\Debug\net6.0\test123.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\test123\obj\Debug\net6.0\test123.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\test123\obj\Debug\net6.0\test123.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\test123\obj\Debug\net6.0\test123.dll
+C:\Users\bridskiy\Desktop\homework\test123\obj\Debug\net6.0\refint\test123.dll
+C:\Users\bridskiy\Desktop\homework\test123\obj\Debug\net6.0\test123.pdb
+C:\Users\bridskiy\Desktop\homework\test123\obj\Debug\net6.0\test123.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\test123\obj\Debug\net6.0\ref\test123.dll
