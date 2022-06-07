@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tasks34_create_prog_change_digit_to_opposite/1.0.0": {
+        "runtime": {
+          "tasks34_create_prog_change_digit_to_opposite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tasks34_create_prog_change_digit_to_opposite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
