@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\bin\Debug\net6.0\tasks33_create_array_of_12_elements.exe
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\bin\Debug\net6.0\tasks33_create_array_of_12_elements.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\bin\Debug\net6.0\tasks33_create_array_of_12_elements.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\bin\Debug\net6.0\tasks33_create_array_of_12_elements.dll
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\bin\Debug\net6.0\tasks33_create_array_of_12_elements.pdb
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\obj\Debug\net6.0\tasks33_create_array_of_12_elements.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\obj\Debug\net6.0\tasks33_create_array_of_12_elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\obj\Debug\net6.0\tasks33_create_array_of_12_elements.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\obj\Debug\net6.0\tasks33_create_array_of_12_elements.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\obj\Debug\net6.0\tasks33_create_array_of_12_elements.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\obj\Debug\net6.0\tasks33_create_array_of_12_elements.dll
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\obj\Debug\net6.0\refint\tasks33_create_array_of_12_elements.dll
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\obj\Debug\net6.0\tasks33_create_array_of_12_elements.pdb
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\obj\Debug\net6.0\tasks33_create_array_of_12_elements.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks33_create_array_of_12_elements\obj\Debug\net6.0\ref\tasks33_create_array_of_12_elements.dll
