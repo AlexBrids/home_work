@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\bin\Debug\net6.0\tasks35_search_digit_in_array.exe
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\bin\Debug\net6.0\tasks35_search_digit_in_array.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\bin\Debug\net6.0\tasks35_search_digit_in_array.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\bin\Debug\net6.0\tasks35_search_digit_in_array.dll
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\bin\Debug\net6.0\tasks35_search_digit_in_array.pdb
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\obj\Debug\net6.0\tasks35_search_digit_in_array.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\obj\Debug\net6.0\tasks35_search_digit_in_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\obj\Debug\net6.0\tasks35_search_digit_in_array.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\obj\Debug\net6.0\tasks35_search_digit_in_array.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\obj\Debug\net6.0\tasks35_search_digit_in_array.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\obj\Debug\net6.0\tasks35_search_digit_in_array.dll
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\obj\Debug\net6.0\refint\tasks35_search_digit_in_array.dll
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\obj\Debug\net6.0\tasks35_search_digit_in_array.pdb
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\obj\Debug\net6.0\tasks35_search_digit_in_array.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks35_search_digit_in_array\obj\Debug\net6.0\ref\tasks35_search_digit_in_array.dll
